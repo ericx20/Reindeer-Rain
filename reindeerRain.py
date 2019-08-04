@@ -1,13 +1,5 @@
-# @ Reindeer Rain - dodge the reindeers falling from the sky!
-# @author Eric Xu
-# @date 2018/01/15
-# @course ICS3U1
-
 import pygame
 import random
-
-
-# -------- CLASSES -----------
 
 # Makes a Reindeer sprite
 # @attr rect.x, rect.y, image
@@ -77,9 +69,6 @@ class Player(pygame.sprite.Sprite):
             self.rect.x = playerPos
         else:
             self.rect.x = 960
-
-
-# -------- SUBPROGRAMS -----------
 
 # Sets up the game (only run once, doesn't reset the game)
 def initGame():
