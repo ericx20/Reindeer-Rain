@@ -6,6 +6,7 @@ Move the elf left and right to dodge the raining reindeers and collect power-ups
 
 Also has a fancy leaderboard that displays high scores
 ![alt text](https://i.imgur.com/sI7DNtP.png)
+Can you beat my high score?
 
 ## Resources
 Sprites and background:
