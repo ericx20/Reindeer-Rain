@@ -11,7 +11,9 @@ Sprites and background:
 http://mercenary-kings.wikia.com/wiki/Deer http://www.hbgames.org/forums/viewtopic.php?f=10&t=58209 
 https://yukikootomiye.deviantart.com/art/Sprites-Heart-Life-641296172
 http://piq.codeus.net/picture/68684/shield
-https://imgur.com/gallery/SELjK Music: 
+https://imgur.com/gallery/SELjK
+
+Music: 
 https://www.youtube.com/watch?v=tmAr7DfBy90
 
 Sound effects: 
