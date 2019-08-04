@@ -1,6 +1,7 @@
 # Reindeer-Rain
-A game about dodging raining reindeers from the sky. Written in Python with Pygame
+A game about dodging raining reindeers from the sky. This was so much fun to make.
 
+Move the elf left and right to dodge the raining reindeers and collect power-ups to heal and protect yourself.
 ![alt text](https://i.imgur.com/EXoPaDQ.png)
 
 Also has a fancy leaderboard that displays high scores
