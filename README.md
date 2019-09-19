@@ -8,6 +8,8 @@ Also has a fancy leaderboard that displays high scores
 ![alt text](https://i.imgur.com/sI7DNtP.png)
 Can you beat my high score?
 
+I also used cx_Freeze to freeze the game into a Windows executable so it can run on any Windows computer.
+
 ## Resources
 Sprites and background:
 
